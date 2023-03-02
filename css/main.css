@@ -1,0 +1,40 @@
+.dice4 circle{
+    fill:blanchedalmond;
+    transition:all .5s;
+    all-webkit-transition:;
+    -moz-transition:all .5s;
+    -ms-transition:all .5s;
+    -o-transition:all .5s;
+    -webkit-transition:all .5s;
+    transform-origin: 25px 25px ;
+    -webkit-transform: ;
+    -moz-transform: ;
+    -ms-transform: ;
+    -o-transform: ;
+}
+.dice4:hover circle{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.dice5 g {
+    transition: all .5s;
+    transform-origin: 100px 100px;
+    -webkit-transform: all .5s;
+    -moz-transform: all .5s;
+    -ms-transform: all .5s;
+    -o-transform: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}
+.dice5:hover g   {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
